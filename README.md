@@ -1,6 +1,8 @@
 # ThaPlayerURPGL3
 A Unity plugin to demonstrate video playback via Android MediaPlayer on Oculus 2.
 
+## Visuals
+![Image of the Demo Player](https://github.com/fischerkinder/ThaPlayerURPGL3/blob/main/Documentation/Images/ThaPlayerInGame.png)
 
 
 ## Prerequisites
